@@ -40,6 +40,18 @@ That's it!
 
 <img src="type-preview.png">
 
+*Note: the screenshot uses the font family Arial. Add it with the following CSS code:*
+
+`span.type { font-family: Arial; }`
+
+*or use your own font*
+
+### Example
+
+An example page can be found at http://justingolden.me/pokemon-types-css
+
+and the code can be seen at https://github.com/justingolden21/pokemon-types-css/blob/master/index.html
+
 ### Colors
 
 All colors used are the official Pokemon colors as found on (Bulbapedia)[https://bulbapedia.bulbagarden.net/wiki/Category:Type_color_templates]
