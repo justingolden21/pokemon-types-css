@@ -1,0 +1,193 @@
+span.type {
+	border: 2px solid #000;
+	border-radius: 20px;
+	padding: 4px 16px;
+	color: #fff;
+
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-o-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+span.type.sm {
+	border-radius: 0px;
+	padding: 0px 5px;
+	margin: 0px;
+}
+/*https://bulbapedia.bulbagarden.net/wiki/Category:Type_color_templates*/
+span.type.normal {
+	background-color: #A8A878;
+	border-color: #6D6D4E;
+}
+span.type.normal:after {
+	content: 'Normal';
+}
+span.type.normal.sm:after {
+	content: 'Nor';
+}
+span.type.fire {
+	background-color: #F08030;
+	border-color: #9C531F;
+}
+span.type.fire:after {
+	content: 'Fire';
+}
+span.type.fire.sm:after {
+	content: 'Fir';
+}
+span.type.water {
+	background-color: #6890F0;
+	border-color: #445E9C;
+}
+span.type.water:after {
+	content: 'Water';
+}
+span.type.water.sm:after {
+	content: 'Wat';
+}
+span.type.electric {
+	background-color: #F8D030;
+	border-color: #A1871F;
+}
+span.type.electric:after {
+	content: 'Electric';
+}
+span.type.electric.sm:after {
+	content: 'Ele';
+}
+span.type.grass {
+	background-color: #78C850;
+	border-color: #4E8234;
+}
+span.type.grass:after {
+	content: 'Grass';
+}
+span.type.grass.sm:after {
+	content: 'Gra';
+}
+span.type.ice {
+	background-color: #98D8D8;
+	border-color: #638D8D;
+}
+span.type.ice:after {
+	content: 'Ice';
+}
+span.type.fighting {
+	background-color: #C03028;
+	border-color: #7D1F1A;
+}
+span.type.fighting:after {
+	content: 'Fighting';
+}
+span.type.fighting.sm:after {
+	content: 'Fig';
+}
+span.type.poison {
+	background-color: #A040A0;
+	border-color: #682A68;
+}
+span.type.poison:after {
+	content: 'Poison';
+}
+span.type.poison.sm:after {
+	content: 'Poi';
+}
+span.type.ground {
+	background-color: #E0C068;
+	border-color: #927D44;
+}
+span.type.ground:after {
+	content: 'Ground';
+}
+span.type.ground.sm:after {
+	content: 'Gro';
+}
+span.type.flying {
+	background-color: #A890F0;
+	border-color: #6D5E9C;
+}
+span.type.flying:after {
+	content: 'Flying';
+}
+span.type.flying.sm:after {
+	content: 'Fly';
+}
+span.type.psychic {
+	background-color: #F85888;
+	border-color: #A13959;
+}
+span.type.psychic:after {
+	content: 'Psychic';
+}
+span.type.psychic.sm:after {
+	content: 'Psy';
+}
+span.type.bug {
+	background-color: #A8B820;
+	border-color: #6D7815;
+}
+span.type.bug:after {
+	content: 'Bug';
+}
+span.type.rock {
+	background-color: #B8A038;
+	border-color: #786824;
+}
+span.type.rock:after {
+	content: 'Rock';
+}
+span.type.rock.sm:after {
+	content: 'Roc';
+}
+span.type.ghost {
+	background-color: #705898;
+	border-color: #493963;
+}
+span.type.ghost:after {
+	content: 'Ghost';
+}
+span.type.ghost.sm:after {
+	content: 'Gho';
+}
+span.type.dragon {
+	background-color: #7038F8;
+	border-color: #4924A1;
+}
+span.type.dragon:after {
+	content: 'Dragon';
+}
+span.type.dragon.sm:after {
+	content: 'Dra';
+}
+span.type.dark {
+	background-color: #705848;
+	border-color: #49392F;
+}
+span.type.dark:after {
+	content: 'Dark';
+}
+span.type.dark.sm:after {
+	content: 'Dar';
+}
+span.type.steel {
+	background-color: #B8B8D0;
+	border-color: #787887;
+}
+span.type.steel:after {
+	content: 'Steel';
+}
+span.type.steel.sm:after {
+	content: 'Ste';
+}
+span.type.fairy {
+	background-color: #EE99AC;
+	border-color: #9B6470;
+}
+span.type.fairy:after {
+	content: 'Fairy';
+}
+span.type.fairy.sm:after {
+	content: 'Fai';
+}
