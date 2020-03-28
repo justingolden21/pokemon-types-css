@@ -8,13 +8,13 @@ Pokemon Types CSS is an ultra light weight CSS library for displaying pokemon ty
 
 ##### Human Readable
 
-http://justingolden.me/pokemon-types-css/types.css
+https://justingolden.me/pokemon-types-css/types.css
 
 3.36kb
 
 ##### Minified
 
-http://justingolden.me/pokemon-types-css/types.min.css
+https://justingolden.me/pokemon-types-css/types.min.css
 
 2.64kb
 
@@ -24,7 +24,7 @@ http://justingolden.me/pokemon-types-css/types.min.css
 
 1. Add the CDN to the head of your HTML page
 
-`<link rel="stylesheet" href="http://justingolden.me/pokemon-types-css/types.min.css">`
+`<link rel="stylesheet" href="https://justingolden.me/pokemon-types-css/types.min.css">`
 
 2. Add HTML spans for the types you want (directly inside your HTML or add dynamically with JS)
 
@@ -48,7 +48,7 @@ That's it!
 
 ### Example
 
-An example page can be found at http://justingolden.me/pokemon-types-css
+An example page can be found at https://justingolden.me/pokemon-types-css
 
 and the code can be seen at https://github.com/justingolden21/pokemon-types-css/blob/master/index.html
 
