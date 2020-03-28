@@ -92,3 +92,9 @@ As of March 2020, there are 18 Pokemon Types.
 Made by [Justin Golden](https://justingolden.me/)
 
 Minified with [CSS Minifier](https://cssminifier.com/)
+
+### Credit
+
+It would be appreciated (but is not required) if you link to this repo in your README. Just copy the line:
+
+> Made with \[Pokemon Types CSS]\(https://github.com/justingolden21/pokemon-types-css)
