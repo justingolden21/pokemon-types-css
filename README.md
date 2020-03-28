@@ -54,7 +54,7 @@ and the code can be seen at https://github.com/justingolden21/pokemon-types-css/
 
 ### Colors
 
-All colors used are the official Pokemon colors as found on (Bulbapedia)[https://bulbapedia.bulbagarden.net/wiki/Category:Type_color_templates]
+All colors used are the official Pokemon colors as found on [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Category:Type_color_templates)
 
 As of March 2020, there are 18 Pokemon Types.
 
